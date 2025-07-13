@@ -62,8 +62,8 @@ cd vad-basic-v1
 2. **Install dependencies**:
 
    ```bash
-pip install -r requirements.txt
-````
+   pip install pydub matplotlib numpy
+  ````
 
 3. **Verify `ffmpeg`**:
 
@@ -159,4 +159,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 📬 Contact
 
-Open an issue or reach out to \[[YOUR\_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)]. Feel free to follow me on GitHub: [YOUR\_USERNAME](https://github.com/YOUR_USERNAME)
+Open an issue or reach out to \[[YOUR\_EMAIL@example.com](mailto:ariashakoo1@gmail.com)]. Feel free to follow me on GitHub: [YOUR\_USERNAME](https://github.com/Ariashakoo)
