@@ -19,9 +19,8 @@ A simple Python-based Voice Activity Detection (VAD) tool that segments an audio
 ```
 vad-basic-v1/
 ├── sample.wav            # Example input audio (not included)
-├── vad_basic.py          # Main VAD implementation script
-├── README.md             # Project documentation (this file)
-└── requirements.txt      # Python dependencies
+├── VAD.ipynb          # Main VAD implementation script
+└──  README.md             # Project documentation (this file)
 ```
 
 ---
@@ -42,7 +41,7 @@ matplotlib
 Install dependencies via:
 
 ```bash
-pip install -r requirements.txt
+pip install pydub matplotlib numpy
 ```
 
 ---
@@ -52,9 +51,10 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
    ```bash
+   https://github.com/Ariashakoo/VAD_Basic
    ```
 
-git clone [https://github.com/YOUR\_USERNAME/vad-basic-v1.git](https://github.com/YOUR_USERNAME/vad-basic-v1.git)
+git clone [https://github.com/YOUR\_USERNAME/vad-basic-v1.git](https://github.com/Ariashakoo/VAD_Basic)
 cd vad-basic-v1
 
 ````
